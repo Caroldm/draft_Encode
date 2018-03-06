@@ -1,0 +1,1196 @@
+[
+ {
+   "TF": "MYC",
+   "ENCODE15 list": 6799,
+   "ENCODE15 Overlap": 306,
+   "CREEDS list": 593
+ },
+ {
+   "TF": "EP300",
+   "ENCODE15 list": 4724,
+   "ENCODE15 Overlap": 245,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "EP300",
+   "ENCODE15 list": 4840,
+   "ENCODE15 Overlap": 208,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "JUND",
+   "ENCODE15 list": 3153,
+   "ENCODE15 Overlap": 161,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "EP300",
+   "ENCODE15 list": 3119,
+   "ENCODE15 Overlap": 147,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "YY1",
+   "ENCODE15 list": 2496,
+   "ENCODE15 Overlap": 146,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "BRCA1",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 126,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "YY1",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 126,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "BRCA1",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 123,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "BRCA1",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 121,
+   "CREEDS list": 601
+ },
+ {
+   "TF": "BRCA1",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 121,
+   "CREEDS list": 601
+ },
+ {
+   "TF": "GTF2B",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 120,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "E2F6",
+   "ENCODE15 list": 2645,
+   "ENCODE15 Overlap": 119,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "SIN3A",
+   "ENCODE15 list": 1628,
+   "ENCODE15 Overlap": 118,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "BRCA1",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 117,
+   "CREEDS list": 599
+ },
+ {
+   "TF": "RAD21",
+   "ENCODE15 list": 2690,
+   "ENCODE15 Overlap": 114,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "BRCA1",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 114,
+   "CREEDS list": 599
+ },
+ {
+   "TF": "SIN3A",
+   "ENCODE15 list": 1628,
+   "ENCODE15 Overlap": 114,
+   "CREEDS list": 597
+ },
+ {
+   "TF": "SIN3A",
+   "ENCODE15 list": 1628,
+   "ENCODE15 Overlap": 111,
+   "CREEDS list": 594
+ },
+ {
+   "TF": "IRF3",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 111,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "BRCA1",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 108,
+   "CREEDS list": 601
+ },
+ {
+   "TF": "BRCA1",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 108,
+   "CREEDS list": 601
+ },
+ {
+   "TF": "ELK1",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 105,
+   "CREEDS list": 596
+ },
+ {
+   "TF": "ELK1",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 103,
+   "CREEDS list": 597
+ },
+ {
+   "TF": "RAD21",
+   "ENCODE15 list": 3040,
+   "ENCODE15 Overlap": 102,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "SIN3A",
+   "ENCODE15 list": 1628,
+   "ENCODE15 Overlap": 101,
+   "CREEDS list": 599
+ },
+ {
+   "TF": "SIN3A",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 100,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "SIN3A",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 100,
+   "CREEDS list": 599
+ },
+ {
+   "TF": "RAD21",
+   "ENCODE15 list": 2685,
+   "ENCODE15 Overlap": 98,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "ELK1",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 96,
+   "CREEDS list": 597
+ },
+ {
+   "TF": "SMC3",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 96,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "FOXA1",
+   "ENCODE15 list": 2272,
+   "ENCODE15 Overlap": 95,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "FOXA1",
+   "ENCODE15 list": 2272,
+   "ENCODE15 Overlap": 95,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "SIN3A",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 92,
+   "CREEDS list": 597
+ },
+ {
+   "TF": "SIRT6",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 92,
+   "CREEDS list": 597
+ },
+ {
+   "TF": "ELK1",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 91,
+   "CREEDS list": 596
+ },
+ {
+   "TF": "SMC3",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 90,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "SMC3",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 90,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "FOXA1",
+   "ENCODE15 list": 2272,
+   "ENCODE15 Overlap": 89,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "SIN3A",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 88,
+   "CREEDS list": 594
+ },
+ {
+   "TF": "MYC",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 88,
+   "CREEDS list": 593
+ },
+ {
+   "TF": "JUND",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 88,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "SMC3",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 86,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "HDAC2",
+   "ENCODE15 list": 2623,
+   "ENCODE15 Overlap": 86,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "FOXA1",
+   "ENCODE15 list": 2272,
+   "ENCODE15 Overlap": 86,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "MYC",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 86,
+   "CREEDS list": 593
+ },
+ {
+   "TF": "FOXA1",
+   "ENCODE15 list": 2272,
+   "ENCODE15 Overlap": 85,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "NR2C2",
+   "ENCODE15 list": 1481,
+   "ENCODE15 Overlap": 85,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "HDAC2",
+   "ENCODE15 list": 2623,
+   "ENCODE15 Overlap": 84,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "MYC",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 83,
+   "CREEDS list": 593
+ },
+ {
+   "TF": "SMC3",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 82,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "FOXA1",
+   "ENCODE15 list": 2272,
+   "ENCODE15 Overlap": 79,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "RNF2",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 77,
+   "CREEDS list": 599
+ },
+ {
+   "TF": "RAD21",
+   "ENCODE15 list": 2100,
+   "ENCODE15 Overlap": 73,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "SMC3",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 73,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "MYC",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 71,
+   "CREEDS list": 593
+ },
+ {
+   "TF": "HDAC1",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 70,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "SUZ12",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 69,
+   "CREEDS list": 601
+ },
+ {
+   "TF": "HDAC1",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 67,
+   "CREEDS list": 599
+ },
+ {
+   "TF": "RNF2",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 64,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "SP1",
+   "ENCODE15 list": 1249,
+   "ENCODE15 Overlap": 64,
+   "CREEDS list": 601
+ },
+ {
+   "TF": "NR2C2",
+   "ENCODE15 list": 1481,
+   "ENCODE15 Overlap": 52,
+   "CREEDS list": 596
+ },
+ {
+   "TF": "JUND",
+   "ENCODE15 list": 809,
+   "ENCODE15 Overlap": 48,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "NELFE",
+   "ENCODE15 list": 334,
+   "ENCODE15 Overlap": 48,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "IRF3",
+   "ENCODE15 list": 755,
+   "ENCODE15 Overlap": 33,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "NR2C2",
+   "ENCODE15 list": 593,
+   "ENCODE15 Overlap": 33,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "ZBTB7A",
+   "ENCODE15 list": 864,
+   "ENCODE15 Overlap": 27,
+   "CREEDS list": 601
+ },
+ {
+   "TF": "NR2C2",
+   "ENCODE15 list": 593,
+   "ENCODE15 Overlap": 26,
+   "CREEDS list": 596
+ },
+ {
+   "TF": "NR2C2",
+   "ENCODE15 list": 381,
+   "ENCODE15 Overlap": 25,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "BRCA1",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 23,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "NR2C2",
+   "ENCODE15 list": 381,
+   "ENCODE15 Overlap": 19,
+   "CREEDS list": 596
+ },
+ {
+   "TF": "BRCA1",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 14,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "HDAC2",
+   "ENCODE15 list": 255,
+   "ENCODE15 Overlap": 13,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "HDAC2",
+   "ENCODE15 list": 255,
+   "ENCODE15 Overlap": 10,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "JUND",
+   "ENCODE15 list": 123,
+   "ENCODE15 Overlap": 1,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "SETDB1",
+   "ENCODE15 list": 3067,
+   "ENCODE15 Overlap": 1,
+   "CREEDS list": 599
+ },
+ {
+   "TF": "HDAC2",
+   "ENCODE15 list": 2623,
+   "ENCODE15 Overlap": 1,
+   "CREEDS list": 594
+ },
+ {
+   "TF": "JUN",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 1,
+   "CREEDS list": 598
+ },
+ {
+   "TF": "RNF2",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 599
+ },
+ {
+   "TF": "RNF2",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 595
+ },
+ {
+   "TF": "SETDB1",
+   "ENCODE15 list": 3067,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 597
+ },
+ {
+   "TF": "SETDB1",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 597
+ },
+ {
+   "TF": "HDAC1",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 566
+ },
+ {
+   "TF": "HDAC1",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 583
+ },
+ {
+   "TF": "HDAC2",
+   "ENCODE15 list": 2623,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 596
+ },
+ {
+   "TF": "HDAC2",
+   "ENCODE15 list": 255,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 596
+ },
+ {
+   "TF": "GATA1",
+   "ENCODE15 list": 2266,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 595
+ },
+ {
+   "TF": "GATA1",
+   "ENCODE15 list": 727,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 595
+ },
+ {
+   "TF": "GATA1",
+   "ENCODE15 list": 2266,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 598
+ },
+ {
+   "TF": "GATA1",
+   "ENCODE15 list": 727,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 598
+ },
+ {
+   "TF": "GATA1",
+   "ENCODE15 list": 2266,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 598
+ },
+ {
+   "TF": "GATA1",
+   "ENCODE15 list": 727,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 598
+ },
+ {
+   "TF": "ARID3A",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 598
+ },
+ {
+   "TF": "ARID3A",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 598
+ },
+ {
+   "TF": "ARID3A",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 598
+ },
+ {
+   "TF": "ARID3A",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 598
+ },
+ {
+   "TF": "EP300",
+   "ENCODE15 list": 3119,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 594
+ },
+ {
+   "TF": "EP300",
+   "ENCODE15 list": 4724,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 594
+ },
+ {
+   "TF": "EP300",
+   "ENCODE15 list": 4840,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 594
+ },
+ {
+   "TF": "EBF1",
+   "ENCODE15 list": 2924,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 598
+ },
+ {
+   "TF": "EBF1",
+   "ENCODE15 list": 2924,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "EBF1",
+   "ENCODE15 list": 2924,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "ARID3A",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 599
+ },
+ {
+   "TF": "ARID3A",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 599
+ },
+ {
+   "TF": "ATF2",
+   "ENCODE15 list": 1641,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "CBX3",
+   "ENCODE15 list": 2682,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "CTCF",
+   "ENCODE15 list": 3361,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "CTCF",
+   "ENCODE15 list": 1619,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "CTCF",
+   "ENCODE15 list": 3081,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "CTCF",
+   "ENCODE15 list": 5283,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "CTCF",
+   "ENCODE15 list": 2055,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "CTCF",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "CTCF",
+   "ENCODE15 list": 2174,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "CTCF",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "CTCF",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "CTCF",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "CTCF",
+   "ENCODE15 list": 4238,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "CTCF",
+   "ENCODE15 list": 3149,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "CTCF",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "CTCF",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "CTCF",
+   "ENCODE15 list": 1804,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "CTCF",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "CTCF",
+   "ENCODE15 list": 1832,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "CTCF",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "CTCF",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "CTCF",
+   "ENCODE15 list": 2447,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "CTCF",
+   "ENCODE15 list": 1518,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "CTCF",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "CTCF",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "CTCF",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "CTCF",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "CTCF",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "CTCF",
+   "ENCODE15 list": 1823,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "CTCF",
+   "ENCODE15 list": 4670,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "CTCF",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "CTCF",
+   "ENCODE15 list": 1654,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "CTCF",
+   "ENCODE15 list": 1812,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "CTCF",
+   "ENCODE15 list": 1993,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "CTCF",
+   "ENCODE15 list": 1468,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "CTCF",
+   "ENCODE15 list": 2082,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "CTCF",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "CTCF",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "CTCF",
+   "ENCODE15 list": 2240,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "CTCF",
+   "ENCODE15 list": 1640,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "CTCF",
+   "ENCODE15 list": 2065,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "CTCF",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "E2F4",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 598
+ },
+ {
+   "TF": "E2F4",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 598
+ },
+ {
+   "TF": "EBF1",
+   "ENCODE15 list": 2924,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "EP300",
+   "ENCODE15 list": 3119,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 599
+ },
+ {
+   "TF": "EP300",
+   "ENCODE15 list": 4724,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 599
+ },
+ {
+   "TF": "EP300",
+   "ENCODE15 list": 4840,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 599
+ },
+ {
+   "TF": "GATA1",
+   "ENCODE15 list": 2266,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 596
+ },
+ {
+   "TF": "GATA1",
+   "ENCODE15 list": 727,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 596
+ },
+ {
+   "TF": "HDAC1",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 598
+ },
+ {
+   "TF": "IKZF1",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 596
+ },
+ {
+   "TF": "JUN",
+   "ENCODE15 list": 4156,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 592
+ },
+ {
+   "TF": "JUN",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 592
+ },
+ {
+   "TF": "KDM1A",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 599
+ },
+ {
+   "TF": "MYC",
+   "ENCODE15 list": 6799,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 597
+ },
+ {
+   "TF": "MYC",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 597
+ },
+ {
+   "TF": "MYC",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 597
+ },
+ {
+   "TF": "MYC",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 597
+ },
+ {
+   "TF": "MYC",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 597
+ },
+ {
+   "TF": "NFYA",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 598
+ },
+ {
+   "TF": "NFYA",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 598
+ },
+ {
+   "TF": "NFYB",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "NFYB",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 600
+ },
+ {
+   "TF": "NRF1",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "NRF1",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "NRF1",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "RAD21",
+   "ENCODE15 list": 3040,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 596
+ },
+ {
+   "TF": "RAD21",
+   "ENCODE15 list": 2690,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 596
+ },
+ {
+   "TF": "RAD21",
+   "ENCODE15 list": 2100,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 596
+ },
+ {
+   "TF": "RAD21",
+   "ENCODE15 list": 2685,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 596
+ },
+ {
+   "TF": "RNF2",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 593
+ },
+ {
+   "TF": "SETDB1",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 599
+ },
+ {
+   "TF": "STAT1",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "STAT3",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 593
+ },
+ {
+   "TF": "TAL1",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 598
+ },
+ {
+   "TF": "TRIM28",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "TRIM28",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "TRIM28",
+   "ENCODE15 list": 2061,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 602
+ },
+ {
+   "TF": "ARID3A",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 598
+ },
+ {
+   "TF": "ARID3A",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 598
+ },
+ {
+   "TF": "GATA1",
+   "ENCODE15 list": 2266,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 588
+ },
+ {
+   "TF": "GATA1",
+   "ENCODE15 list": 727,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 588
+ },
+ {
+   "TF": "HDAC2",
+   "ENCODE15 list": 255,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 594
+ },
+ {
+   "TF": "JUN",
+   "ENCODE15 list": 4156,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 598
+ },
+ {
+   "TF": "MYC",
+   "ENCODE15 list": 6799,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 598
+ },
+ {
+   "TF": "MYC",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 598
+ },
+ {
+   "TF": "MYC",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 598
+ },
+ {
+   "TF": "MYC",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 598
+ },
+ {
+   "TF": "MYC",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 598
+ },
+ {
+   "TF": "RNF2",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 595
+ },
+ {
+   "TF": "STAT3",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 596
+ },
+ {
+   "TF": "SUZ12",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 596
+ },
+ {
+   "TF": "YY1",
+   "ENCODE15 list": 2496,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 599
+ },
+ {
+   "TF": "YY1",
+   "ENCODE15 list": 2000,
+   "ENCODE15 Overlap": 0,
+   "CREEDS list": 599
+ }
+]
