@@ -1,2 +1,2 @@
 # vis_data
-json files
+json files used for the visualization.
